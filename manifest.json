@@ -1,8 +1,9 @@
 {
-  "name": "Gist.IO Link",
-  "version": "0.1.0",
+  "name": "Gist.IO Page Switcher",
+  "version": "0.1.2",
   "manifest_version": 2,
   "homepage_url": "http://github.com/roberto/gist-io-chrome",
+  "description": "Quickly switching between gist.github.com and gist.io pages.",
   "background": {
     "scripts": ["gist_io.js","background.js"]
   },
@@ -23,10 +24,11 @@
   ],
   "icons":{
     "16": "icon16.png",
-    "32": "icon32.png"
+    "48": "icon48.png",
+    "128": "icon128.png"
   },
   "page_action": {
-    "default_icon": "icon16.png",
+    "default_icon": "icon19.png",
     "default_name": "Gist.IO"
   }
 }
