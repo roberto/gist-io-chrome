@@ -10,6 +10,7 @@ This extension adds a button **IO**, only seen in [gist.io](http://gist.io/) and
 
 ## Changelog
 
+- 0.1.3: new homepage: http://gist.io/3278455
 - 0.1.2: updated icons and description
 - 0.1.0: main feature: to switch between pages
 

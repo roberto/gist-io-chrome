@@ -1,6 +1,6 @@
 {
   "name": "Gist.IO Page Switcher",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "manifest_version": 2,
   "homepage_url": "http://gist.io/3278455",
   "description": "Quickly switching between gist.github.com and gist.io pages.",
