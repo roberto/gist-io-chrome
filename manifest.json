@@ -2,7 +2,7 @@
   "name": "Gist.IO Page Switcher",
   "version": "0.1.2",
   "manifest_version": 2,
-  "homepage_url": "http://github.com/roberto/gist-io-chrome",
+  "homepage_url": "http://gist.io/3278455",
   "description": "Quickly switching between gist.github.com and gist.io pages.",
   "background": {
     "scripts": ["gist_io.js","background.js"]
