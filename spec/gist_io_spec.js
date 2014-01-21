@@ -55,7 +55,7 @@ describe("GistIO", function(){
     });
 
     it("should redirect to gistIO when current page is a valid gist page", function(){
-      tab = {id: 12345, url: "http://gist.github.com/101010"};
+      tab = {id: 12345, url: "http://gist.github.com/dude/101010"};
       page = GistIO.pages["gist"];
 
       GistIO.alternate(page, tab);

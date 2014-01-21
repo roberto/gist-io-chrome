@@ -2,7 +2,7 @@ function GistIO(){};
 
 GistIO.pages = {
   gist: {
-    regex: /^http[s]?\:\/\/gist\.github\.com\/(\d+)$/,
+    regex: /^http[s]?\:\/\/gist\.github\.com\/\S*\/(\d+)$/,
     destiny: "http://gist.io/" 
   },
   io: {
